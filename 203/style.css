@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 700px;
+    border: 1px solid black;
+}
+#c1{
+    width: 90px;
+    height: 50px;
+    border: 1px solid green;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    float: left;
+}
