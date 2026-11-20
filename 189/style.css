@@ -1,10 +1,12 @@
 img{
     width:180px;
     height: auto;
+    float: left;
 }
 #img2{
     width:180px;
     height: auto;
+    float: right;
 }
 div{
     width: 400px;
