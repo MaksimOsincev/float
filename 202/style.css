@@ -1,0 +1,22 @@
+div{
+    width: 710px;
+    height: 310px;
+    border: 1px solid black;
+    text-align: justify;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+
+    
+}
+#rr{
+    border: 1px solid green;
+    width: 60px;
+    height: 40px;
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+
+    
+}
